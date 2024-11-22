@@ -15,6 +15,9 @@
     <None Update="Formats\2015modern.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Update="Formats\classiclegacy.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="Formats\premodern.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
